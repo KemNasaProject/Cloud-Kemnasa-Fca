@@ -1,29 +1,29 @@
 {
-  "name": "cloud-horizon-fca",
+  "name": "cloud-kemnasa-fca",
   "version": "0.0.1",
-  "description": "Facebook-Chat-Api được tạo bời Nguyễn Thái Hảo và Horizon Team nhằm bảo mật và cải tiến,  thử nghiệm",
+  "description": "Facebook-Chat-Api được tạo bời Hoàng Hào và KemNasa Team nhằm bảo mật và cải tiến và thử nghiệm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HarryWakazaki/Cloud-Horizon-Fca.git"
+    "url": "git+https://github.com/KemNasaProject/Cloud-Kemnasa-Fca.git"
   },
   "keywords": [
-    "Horizon",
+    "Kemnasa",
     "Fca",
     "Fca",
     "CloudFca",
     "Cloud",
-    "Horizon"
+    "Kemnasa"
   ],
-  "author": "KanzuWakazaki",
+  "author": "KemNasa",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/HarryWakazaki/Cloud-Horizon-Fca/issues"
+    "url": "https://github.com/KemNasaProject/Cloud-Kemnasa-Fca/issues"
   },
-  "homepage": "https://github.com/HarryWakazaki/Cloud-Horizon-Fca#readme",
+  "homepage": "https://github.com/KemNasaProject/Cloud-Kemnasa-Fca#readme",
   "dependencies": {
     "aes-js": "^3.1.2",
     "assert": "^2.0.0",
@@ -41,7 +41,7 @@
     "pretty-ms": "^8.0.0",
     "readline": "^1.3.0",
     "request": "^2.88.2",
-    "synthetic-horizon-database": "^1.2.3",
+    "synthetic-kemnasa-database": "^1.2.3",
     "totp-generator": "0.0.13",
     "websocket-stream": "^5.5.2"
   }
