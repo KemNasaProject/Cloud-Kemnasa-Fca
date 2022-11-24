@@ -4,7 +4,7 @@
 
 ## Introduction
 * A Facebook-Chat-Api with many useful features and protect your cookies for bot messenger.
-* Currently this project under development by KanzuWakazaki is expected to be completed by next summer,since only one person does, it may take longer than expected!
+* Currently this project under development by KemNasa is expected to be completed by next summer,since only one person does, it may take longer than expected!
 
 
 ## Features
