@@ -1,4 +1,4 @@
-[![IMAGE_ALT](https://i.imgur.com/0S1nXe6.png)](www.github.com/HarryWakazaki)
+[![IMAGE_ALT](https://i.imgur.com/0S1nXe6.png)](www.github.com/kemnasa)
 
 <h2>
 
@@ -20,8 +20,8 @@
 * Will be updated soon!
 
 ## Contact
-* KanzuWakazaki - Nguyễn Thái Hảo: <a href="https://www.facebook.com/Lazic.Kanzu">https://www.facebook.com/Lazic.Kanzu</a>
-* Horizon Team(Public Group): <a href="https://m.me/j/AbbyluGYf-Li86pq/">https://m.me/j/AbbyluGYf-Li86pq/</a>
+* KemNasa - Hoàng Hào: <a href="https://www.facebook.com/kemnasa">https://www.facebook.com/kemnasa</a>
+* KemNasa Team(Public Group): <a href="https://m.me/j/AbbyluGYf-Li86pq/">https://m.me/j/AbbyluGYf-Li86pq/</a>
 * Will be updated soon!
 
 ## License
@@ -34,7 +34,7 @@
 * Will be updated soon!
 
 ## Author
-* KanzuWakazaki - Nguyễn Thái Hảo
+* KemNasa - Hoàng Hào
 
 
 
